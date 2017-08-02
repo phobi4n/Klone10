@@ -1,0 +1,8 @@
+You don't need the patch. Just edit the file 
+/usr/share/plasma/plasmoids/org.kde.plasma.private.systemtray/contents/ui/main.qml
+and change line 34 from 
+property int itemSize: Math.min(Math.min(width, height), units.iconSizes.medium) 
+to
+property int itemSize: Math.min(Math.min(width, height), units.iconSizes.smallMedium)
+
+Found here: https://forum.kde.org/viewtopic.php?f=289&t=131736#p359730

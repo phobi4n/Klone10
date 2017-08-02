@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2318" xmlns="http://www.w3.org/2000/svg" height="32" xmlns:cc="http://creativecommons.org/ns#" width="132" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs2320">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <metadata id="metadata2323">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="hint-tile-center" y="4.4389" x="6.2501" height="3.5355" width="3.4471"/>
+  <rect id="hint-bar-size" x="27.486" height="12" width="12" y="6.068"/>
+  <path id="bar-active-center" fill="#12bcfa" d="m98 9h3v3h-3v-3z"/>
+  <g id="bar-active-top" transform="translate(-18)" fill="#12bcfa">
+   <path id="path3205" fill="#12bcfa" d="m119 5h-3v3h3v-3z"/>
+  </g>
+  <g id="bar-active-topright" transform="translate(-18)" fill="#12bcfa">
+   <g id="g3209" fill="#12bcfa">
+    <path id="path3213" fill="#12bcfa" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
+   </g>
+  </g>
+  <g id="bar-active-bottomright" fill="#12bcfa" transform="matrix(1,0,0,-1,-18,21)">
+   <g id="g3217" fill="#12bcfa">
+    <path id="path3221" fill="#12bcfa" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
+   </g>
+  </g>
+  <g id="bar-active-bottom" fill="#12bcfa" transform="matrix(1,0,0,-1,-18,21)">
+   <path id="path3227" fill="#12bcfa" d="m119 5h-3v3h3v-3z"/>
+  </g>
+  <g id="bar-active-topleft" fill="#12bcfa" transform="matrix(-1,0,0,1,217,0)">
+   <g id="g3231">
+    <path id="path3235" fill="#12bcfa" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
+    <use id="use4179" xlink:href="#path3235" fill="#12bcfa" x="0" y="0"/>
+   </g>
+  </g>
+  <g id="bar-active-bottomleft" transform="matrix(-1,0,0,-1,217,21)" fill="#12bcfa">
+   <g id="g3239" fill="#12bcfa">
+    <path id="path3243" fill="#12bcfa" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
+   </g>
+  </g>
+  <g id="bar-active-left" transform="matrix(0,1,1,0,89,-107)" fill="#12bcfa">
+   <path id="path3249" fill="#12bcfa" d="m119 5h-3v3h3v-3z"/>
+  </g>
+  <g id="bar-active-right" fill="#12bcfa" transform="matrix(0,1,-1,0,110,-107)">
+   <path id="path3255" fill="#12bcfa" d="m119 5h-3v3h3v-3z"/>
+  </g>
+  <path id="bar-inactive-center" fill-opacity=".17255" d="m98 23h3v3h-3v-3z"/>
+  <g id="bar-inactive-top" fill-opacity=".17255" transform="translate(-18,14)">
+   <path id="path3399" fill-opacity=".17255" d="m119 5h-3v3h3v-3z"/>
+  </g>
+  <g id="bar-inactive-topright" fill-opacity=".17255" transform="translate(-18,14)">
+   <g id="g3403" fill-opacity=".17255">
+    <path id="path3405" fill-opacity=".17255" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
+   </g>
+  </g>
+  <g id="bar-inactive-bottomright" transform="matrix(1,0,0,-1,-18,35)" fill-opacity=".17255">
+   <g id="g3409" fill-opacity=".17255">
+    <path id="path3411" fill-opacity=".17255" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
+   </g>
+  </g>
+  <g id="bar-inactive-bottom" transform="matrix(1,0,0,-1,-18,35)" fill-opacity=".17255">
+   <path id="path3415" fill-opacity=".17255" d="m119 5h-3v3h3v-3z"/>
+  </g>
+  <g id="bar-inactive-topleft" transform="matrix(-1,0,0,1,217,14)" fill-opacity=".17255">
+   <g id="g3419" fill-opacity=".17255">
+    <path id="path3421" fill-opacity=".17255" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
+   </g>
+  </g>
+  <g id="bar-inactive-bottomleft" fill-opacity=".17255" transform="matrix(-1,0,0,-1,217,35)">
+   <g id="g3425" fill-opacity=".17255">
+    <path id="path3427" fill-opacity=".17255" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
+   </g>
+  </g>
+  <g id="bar-inactive-left" fill-opacity=".17255" transform="matrix(0,1,1,0,89,-93)">
+   <path id="path3431" fill-opacity=".17255" d="m119 5h-3v3h3v-3z"/>
+  </g>
+  <g id="bar-inactive-right" transform="matrix(0,1,-1,0,110,-93)" fill-opacity=".17255">
+   <path id="path3435" fill-opacity=".17255" d="m119 5h-3v3h3v-3z"/>
+  </g>
+ </g>
+</svg>
