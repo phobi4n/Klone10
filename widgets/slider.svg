@@ -15,7 +15,7 @@
    version="1.1"
    height="56.624897"
    width="72.477898"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="slider.svg"
    viewBox="0 0 72.477899 56.624897">
   <sodipodi:namedview
@@ -32,9 +32,9 @@
      inkscape:document-units="px"
      id="namedview41"
      showgrid="false"
-     inkscape:zoom="38.885427"
-     inkscape:cx="15.376034"
-     inkscape:cy="44.503257"
+     inkscape:zoom="54.992298"
+     inkscape:cx="42.315378"
+     inkscape:cy="44.186179"
      inkscape:current-layer="svg3025"
      inkscape:snap-to-guides="false"
      inkscape:window-x="130"
@@ -93,7 +93,7 @@
        id="highlight-6"
        osb:paint="solid">
       <stop
-         style="stop-color:#3091a8;stop-opacity:1;"
+         style="stop-color:#71bcff;stop-opacity:1;"
          offset="0"
          id="stop8511" />
     </linearGradient>
