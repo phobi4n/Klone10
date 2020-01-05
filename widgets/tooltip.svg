@@ -259,9 +259,9 @@
      height="48"
      id="center" />
   <rect
-     y="14.724486"
+     y="11.724486"
      x="-22.796762"
-     height="6"
+     height="9"
      width="1"
      id="hint-top-margin"
      style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:23.99999809;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -269,20 +269,20 @@
      style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:23.99999809;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="hint-bottom-margin"
      width="1"
-     height="6"
+     height="9"
      x="-22.796762"
      y="21.724487" />
   <rect
      y="20.724487"
-     x="-28.796762"
+     x="-31.796762"
      height="1"
-     width="6"
+     width="9"
      id="hint-left-margin"
      style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:23.99999809;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
      style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:23.99999809;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="hint-right-margin"
-     width="6"
+     width="9"
      height="1"
      x="-21.796762"
      y="20.724487" />
