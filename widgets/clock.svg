@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1269.9213"
@@ -20,6 +19,14 @@
    sodipodi:docname="clock.svg">
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient8106"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2c2c2c;stop-opacity:1;"
+         offset="0"
+         id="stop8104" />
+    </linearGradient>
     <linearGradient
        id="linearGradient5339"
        osb:paint="solid">
@@ -51,14 +58,6 @@
          style="stop-color:#b5b9b5;stop-opacity:1;"
          offset="0"
          id="stop5259" />
-    </linearGradient>
-    <linearGradient
-       id="hour-7"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#545454;stop-opacity:1;"
-         offset="0"
-         id="stop5247" />
     </linearGradient>
     <linearGradient
        id="linearGradient5057"
@@ -100,16 +99,6 @@
          offset="0"
          id="stop5031" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5033"
-       id="linearGradient5035"
-       x1="375.07791"
-       y1="174.10123"
-       x2="377.62117"
-       y2="174.10123"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4564667,0,0,0.87401052,-171.79102,18.60503)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -118,9 +107,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.3229227"
-     inkscape:cx="1302.5149"
-     inkscape:cy="747.39688"
+     inkscape:zoom="0.31937219"
+     inkscape:cx="-1091.2888"
+     inkscape:cy="355.90656"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -159,7 +148,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -180,7 +169,7 @@
          y="116.93352"
          ry="0" />
       <rect
-         style="opacity:1;fill:url(#linearGradient5035);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.28072643;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#5b8ce6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.28072643;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5954"
          width="3.7041667"
          height="95.259224"
@@ -207,12 +196,6 @@
        height="5.227735"
        x="300.63458"
        y="46.22823" />
-    <circle
-       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:6.3499999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path2793"
-       cx="-411.34579"
-       cy="284.79535"
-       r="108.47916" />
     <g
        id="ClockFace">
       <rect
@@ -221,7 +204,7 @@
          height="270.93332"
          width="270.93332"
          id="rect2799"
-         style="opacity:0.92000002;fill:#0e0e0e;fill-opacity:1;stroke:none;stroke-width:6.3499999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#1c1c1c;fill-opacity:0.81568629;stroke:none;stroke-width:6.3499999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="translate(2.1576826,2.3189743)"
          style="fill:#000000"
