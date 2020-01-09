@@ -13,7 +13,7 @@
    height="45"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92pre2 15180"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -32,13 +32,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.3298084"
-     inkscape:cx="4.7424132"
-     inkscape:cy="20.268396"
+     inkscape:cx="-15.306067"
+     inkscape:cy="19.788193"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1131"
      inkscape:window-x="0"
@@ -50,7 +50,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:showpageshadow="false"
-     borderlayer="true">
+     borderlayer="true"
+     inkscape:pagecheckerboard="true"
+     showborder="false">
     <inkscape:grid
        enabled="true"
        visible="true"
@@ -110,7 +112,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -143,7 +145,7 @@
          inkscape:connector-curvature="0"
          id="path2998"
          d="m 33.96875,13.59375 v 40 h 1 v -40 z"
-         style="color:#31363b;fill:#ffffff;fill-opacity:1;stroke:none" />
+         style="color:#31363b;fill:#ffffff;fill-opacity:0.53725493;stroke:none" />
     </g>
     <g
        id="horizontal-line"
@@ -168,7 +170,7 @@
          inkscape:connector-curvature="0"
          id="path3787"
          d="m 75.690972,56.529 h -40 v 1 h 40 z"
-         style="color:#31363b;fill:#ffffff;fill-opacity:1;stroke:none"
+         style="color:#31363b;fill:#ffffff;fill-opacity:0.53725493;stroke:none"
          inkscape:label="#path2992" />
     </g>
   </g>

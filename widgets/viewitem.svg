@@ -31,9 +31,9 @@
      inkscape:window-height="860"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="27.343414"
-     inkscape:cx="75.318514"
-     inkscape:cy="55.148274"
+     inkscape:zoom="13.671707"
+     inkscape:cx="28.102289"
+     inkscape:cy="45.7006"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="true"
      inkscape:window-x="273"
@@ -42,6 +42,22 @@
      showborder="false" />
   <defs
      id="defs7082">
+    <linearGradient
+       id="linearGradient883"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#98bcff;stop-opacity:1;"
+         offset="0"
+         id="stop881" />
+    </linearGradient>
+    <linearGradient
+       id="selectedbody"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#98bcff;stop-opacity:0.67058825;"
+         offset="0"
+         id="stop875" />
+    </linearGradient>
     <linearGradient
        id="linearGradient1580"
        osb:paint="solid">
@@ -105,6 +121,87 @@
        y1="0.28102493"
        x2="-59.530502"
        y2="0.28102493" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#selectedbody"
+       id="linearGradient879"
+       x1="56.281025"
+       y1="71.530498"
+       x2="80.281038"
+       y2="71.530498"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#selectedbody"
+       id="linearGradient885"
+       x1="49.375832"
+       y1="-19.488562"
+       x2="53.375771"
+       y2="-19.488562"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#selectedbody"
+       id="linearGradient887"
+       x1="2.0616059"
+       y1="48.387531"
+       x2="26.061619"
+       y2="48.387531"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#selectedbody"
+       id="linearGradient889"
+       x1="49.375832"
+       y1="-19.488562"
+       x2="53.375771"
+       y2="-19.488562"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#selectedbody"
+       id="linearGradient891"
+       x1="2.0616059"
+       y1="48.387531"
+       x2="26.061619"
+       y2="48.387531"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#selectedbody"
+       id="linearGradient893"
+       x1="49.375832"
+       y1="-19.488562"
+       x2="53.375771"
+       y2="-19.488562"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#selectedbody"
+       id="linearGradient895"
+       x1="2.0616059"
+       y1="48.387531"
+       x2="26.061619"
+       y2="48.387531"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#selectedbody"
+       id="linearGradient897"
+       x1="2.0616059"
+       y1="48.387531"
+       x2="26.061619"
+       y2="48.387531"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#selectedbody"
+       id="linearGradient899"
+       x1="49.375832"
+       y1="-19.488562"
+       x2="53.375771"
+       y2="-19.488562"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7085">
@@ -169,7 +266,7 @@
        x="2.0616059"
        width="24.000013"
        height="1"
-       style="opacity:0.15;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486" />
+       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486" />
   </g>
   <g
      transform="matrix(1,0,0,-1,0.21943122,133.91804)"
@@ -183,7 +280,7 @@
        height="3.9999413"
        style="opacity:0.25;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824857" />
     <rect
-       style="opacity:0.15;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486"
+       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486"
        height="1"
        width="24.000013"
        x="2.0616059"
@@ -202,7 +299,7 @@
        height="3.9999413"
        style="opacity:0.25;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824857" />
     <rect
-       style="opacity:0.15;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486"
+       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486"
        height="1"
        width="24.000013"
        x="2.0616059"
@@ -225,7 +322,7 @@
        inkscape:connector-curvature="0"
        id="rect868"
        d="m 17.488562,49.375771 v 1 h 3 v 3 h 1 v -4 z"
-       style="opacity:0.15;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678" />
+       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678" />
   </g>
   <g
      transform="matrix(1,0,0,-1,8.7924884,136.90625)"
@@ -240,7 +337,7 @@
        y="-21.488562"
        id="rect887" />
     <path
-       style="opacity:0.15;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 17.488562,49.375771 v 1 h 3 v 3 h 1 v -4 z"
        id="path889"
        inkscape:connector-curvature="0" />
@@ -271,7 +368,7 @@
        x="-61.702522"
        width="1"
        height="2"
-       style="opacity:0.15;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709" />
+       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709" />
   </g>
   <g
      transform="matrix(1,0,0,-1,10.499251,148.233)"
@@ -293,7 +390,7 @@
        id="rect910"
        transform="rotate(-90)" />
     <rect
-       style="opacity:0.15;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709"
+       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709"
        height="2"
        width="1"
        x="-61.702522"
@@ -307,13 +404,13 @@
      x="56.281025"
      width="24.000013"
      height="24.000013"
-     style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
+     style="opacity:1;fill:url(#linearGradient879);fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
   <g
-     style="fill:#98bcff;fill-opacity:1"
+     style="fill:#98bcff;fill-opacity:1;opacity:1"
      id="selected-top"
      transform="translate(54.219431,9.1429707)">
     <rect
-       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824857"
+       style="opacity:1;fill:url(#linearGradient891);fill-opacity:1.0;fill-rule:evenodd;stroke-width:0.40824857"
        height="3.9999413"
        width="24.000013"
        x="2.0616059"
@@ -325,10 +422,10 @@
        x="2.0616059"
        width="24.000013"
        height="1"
-       style="opacity:0.25;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486" />
+       style="opacity:1;fill:#b3cdff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486" />
   </g>
   <g
-     style="fill:#98bcff;fill-opacity:1"
+     style="fill:#98bcff;fill-opacity:1;opacity:1"
      transform="matrix(1,0,0,-1,54.219431,133.91804)"
      id="selected-bottom">
     <rect
@@ -337,9 +434,9 @@
        x="2.0616059"
        width="24.000013"
        height="3.9999413"
-       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824857" />
+       style="opacity:1;fill:url(#linearGradient897);fill-opacity:1.0;fill-rule:evenodd;stroke-width:0.40824857" />
     <rect
-       style="opacity:0.25;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486"
+       style="opacity:1;fill:#b3cdff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486"
        height="1"
        width="24.000013"
        x="2.0616059"
@@ -347,7 +444,7 @@
        id="rect938" />
   </g>
   <g
-     style="fill:#98bcff;fill-opacity:1"
+     style="fill:#98bcff;fill-opacity:1;opacity:1"
      transform="rotate(90,36.599851,94.068704)"
      id="selected-right">
     <rect
@@ -356,9 +453,9 @@
        x="2.0616059"
        width="24.000013"
        height="3.9999413"
-       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824857" />
+       style="opacity:1;fill:url(#linearGradient895);fill-opacity:1.0;fill-rule:evenodd;stroke-width:0.40824857" />
     <rect
-       style="opacity:0.25;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486"
+       style="opacity:1;fill:#b3cdff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486"
        height="1"
        width="24.000013"
        x="2.0616059"
@@ -366,7 +463,7 @@
        id="rect944" />
   </g>
   <g
-     style="fill:#98bcff;fill-opacity:1"
+     style="fill:#98bcff;fill-opacity:1;opacity:1"
      id="selected-topright"
      transform="translate(62.792488,6.1547615)">
     <rect
@@ -375,28 +472,28 @@
        x="49.375832"
        width="3.999939"
        height="4"
-       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:1;fill:url(#linearGradient893);fill-opacity:1.0;fill-rule:evenodd;stroke-width:0.16666678"
        transform="rotate(90)" />
     <path
        inkscape:connector-curvature="0"
        id="path950"
        d="m 17.488562,49.375771 v 1 h 3 v 3 h 1 v -4 z"
-       style="opacity:0.25;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678" />
+       style="opacity:1;fill:#b3cdff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678" />
   </g>
   <g
-     style="fill:#98bcff;fill-opacity:1"
+     style="fill:#98bcff;fill-opacity:1;opacity:1"
      transform="matrix(1,0,0,-1,62.792488,136.90625)"
      id="selected-bottomright">
     <rect
        transform="rotate(90)"
-       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:1;fill:url(#linearGradient899);fill-opacity:1.0;fill-rule:evenodd;stroke-width:0.16666678"
        height="4"
        width="3.999939"
        x="49.375832"
        y="-21.488562"
        id="rect954" />
     <path
-       style="opacity:0.25;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:1;fill:#b3cdff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 17.488562,49.375771 v 1 h 3 v 3 h 1 v -4 z"
        id="path956"
        inkscape:connector-curvature="0" />
@@ -404,9 +501,9 @@
   <g
      id="selected-left"
      transform="matrix(0,1,1,0,5.8935341,57.468859)"
-     style="fill:#98bcff;fill-opacity:1">
+     style="fill:#98bcff;fill-opacity:1;opacity:1">
     <rect
-       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824857"
+       style="opacity:1;fill:url(#linearGradient887);fill-opacity:1.0;fill-rule:evenodd;stroke-width:0.40824857"
        height="3.9999413"
        width="24.000013"
        x="2.0616059"
@@ -418,22 +515,22 @@
        x="2.0616059"
        width="24.000013"
        height="1"
-       style="opacity:0.25;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486" />
+       style="opacity:1;fill:#b3cdff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486" />
   </g>
   <g
      transform="matrix(-1,0,0,1,73.769658,6.1546944)"
      id="selected-topleft"
-     style="fill:#98bcff;fill-opacity:1">
+     style="fill:#98bcff;fill-opacity:1;opacity:1">
     <rect
        transform="rotate(90)"
-       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:1;fill:url(#linearGradient889);fill-opacity:1.0;fill-rule:evenodd;stroke-width:0.16666678"
        height="4"
        width="3.999939"
        x="49.375832"
        y="-21.488562"
        id="rect2013" />
     <path
-       style="opacity:0.25;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:1;fill:#b3cdff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 17.488562,49.375771 v 1 h 3 v 3 h 1 v -4 z"
        id="path2015"
        inkscape:connector-curvature="0" />
@@ -441,19 +538,19 @@
   <g
      id="selected-bottomleft"
      transform="rotate(-180,36.884799,68.453155)"
-     style="fill:#98bcff;fill-opacity:1">
+     style="fill:#98bcff;fill-opacity:1;opacity:1">
     <rect
        id="rect2019"
        y="-21.488562"
        x="49.375832"
        width="3.999939"
        height="4"
-       style="opacity:0.25;fill:#98bcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:1;fill:url(#linearGradient885);fill-opacity:1.0;fill-rule:evenodd;stroke-width:0.16666678"
        transform="rotate(90)" />
     <path
        inkscape:connector-curvature="0"
        id="path2021"
        d="m 17.488562,49.375771 v 1 h 3 v 3 h 1 v -4 z"
-       style="opacity:0.25;fill:#5b8ce6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678" />
+       style="opacity:1;fill:#b3cdff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678" />
   </g>
 </svg>
