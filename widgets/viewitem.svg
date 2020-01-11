@@ -31,9 +31,9 @@
      inkscape:window-height="860"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="19.334713"
-     inkscape:cx="24.250981"
-     inkscape:cy="43.931752"
+     inkscape:zoom="13.671707"
+     inkscape:cx="24.391713"
+     inkscape:cy="40.495146"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="true"
      inkscape:window-x="273"
@@ -266,7 +266,7 @@
        x="2.0616059"
        width="24.000013"
        height="1"
-       style="opacity:1;fill:#5c8be7;fill-opacity:0.3764706;fill-rule:evenodd;stroke-width:0.4082486" />
+       style="opacity:1;fill:#5c8be7;fill-opacity:0.13304721;fill-rule:evenodd;stroke-width:0.4082486" />
   </g>
   <g
      transform="matrix(1,0,0,-1,0.21943122,133.91804)"
@@ -280,7 +280,7 @@
        height="3.9999413"
        style="opacity:1;fill:#5b8ce6;fill-opacity:0.39366516;fill-rule:evenodd;stroke-width:0.40824857" />
     <rect
-       style="opacity:1;fill:#5c8be7;fill-opacity:0.3764706;fill-rule:evenodd;stroke-width:0.4082486"
+       style="opacity:1;fill:#5c8be7;fill-opacity:0.13304721;fill-rule:evenodd;stroke-width:0.4082486"
        height="1"
        width="24.000013"
        x="2.0616059"
@@ -299,7 +299,7 @@
        height="3.9999413"
        style="opacity:1;fill:#5b8ce6;fill-opacity:0.39366516;fill-rule:evenodd;stroke-width:0.40824857" />
     <rect
-       style="opacity:1;fill:#5c8be7;fill-opacity:0.3764706;fill-rule:evenodd;stroke-width:0.4082486"
+       style="opacity:1;fill:#5c8be7;fill-opacity:0.13304721;fill-rule:evenodd;stroke-width:0.4082486"
        height="1"
        width="24.000013"
        x="2.0616059"
@@ -322,7 +322,7 @@
        inkscape:connector-curvature="0"
        id="rect868"
        d="m 17.488562,49.375771 v 1 h 3 v 3 h 1 v -4 z"
-       style="opacity:1;fill:#5c8be7;fill-opacity:0.3764706;fill-rule:evenodd;stroke-width:0.16666678" />
+       style="opacity:1;fill:#5c8be7;fill-opacity:0.13304721;fill-rule:evenodd;stroke-width:0.16666678" />
   </g>
   <g
      transform="matrix(1,0,0,-1,8.7924884,136.90625)"
@@ -337,7 +337,7 @@
        y="-21.488562"
        id="rect887" />
     <path
-       style="opacity:1;fill:#5c8be7;fill-opacity:0.3764706;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:1;fill:#5c8be7;fill-opacity:0.13304721;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 17.488562,49.375771 v 1 h 3 v 3 h 1 v -4 z"
        id="path889"
        inkscape:connector-curvature="0" />
@@ -368,7 +368,7 @@
        x="-61.702522"
        width="1"
        height="2"
-       style="opacity:1;fill:#5c8be7;fill-opacity:0.3764706;fill-rule:evenodd;stroke-width:0.81649709" />
+       style="opacity:1;fill:#5c8be7;fill-opacity:0.13304721;fill-rule:evenodd;stroke-width:0.81649709" />
   </g>
   <g
      transform="matrix(1,0,0,-1,10.499251,148.233)"
@@ -390,7 +390,7 @@
        id="rect910"
        transform="rotate(-90)" />
     <rect
-       style="opacity:1;fill:#5c8be7;fill-opacity:0.3764706;fill-rule:evenodd;stroke-width:0.81649709"
+       style="opacity:1;fill:#5c8be7;fill-opacity:0.13304721;fill-rule:evenodd;stroke-width:0.81649709"
        height="2"
        width="1"
        x="-61.702522"
