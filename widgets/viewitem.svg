@@ -31,9 +31,9 @@
      inkscape:window-height="860"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="5.5866095"
-     inkscape:cx="51.163246"
-     inkscape:cy="30.490709"
+     inkscape:zoom="11.173219"
+     inkscape:cx="29.177607"
+     inkscape:cy="48.88057"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="true"
      inkscape:window-x="273"
@@ -54,7 +54,7 @@
        id="hovernew"
        osb:paint="solid">
       <stop
-         style="stop-color:#306be0;stop-opacity:0.3764706;"
+         style="stop-color:#306be0;stop-opacity:0.5411765;"
          offset="0"
          id="stop4834" />
     </linearGradient>
@@ -316,7 +316,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -483,9 +483,9 @@
        style="opacity:1;fill:#b3cdff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678" />
   </g>
   <rect
-     y="28.728382"
+     y="26.728382"
      x="6.0754428"
-     height="4"
+     height="6"
      width="1"
      id="hover-hint-top-margin"
      style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -493,9 +493,9 @@
      style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="hover-hint-bottom-margin"
      width="1"
-     height="4"
-     x="6.0754428"
-     y="35.977859" />
+     height="6"
+     x="6.6124411"
+     y="36.304852" />
   <rect
      y="33.563129"
      x="-0.50278687"

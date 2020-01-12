@@ -27,9 +27,9 @@
      fit-margin-left="10"
      fit-margin-top="10"
      inkscape:current-layer="svg2"
-     inkscape:cy="34.332563"
-     inkscape:cx="32.048961"
-     inkscape:zoom="4.9851032"
+     inkscape:cy="47.827119"
+     inkscape:cx="37.726938"
+     inkscape:zoom="14.100001"
      showgrid="false"
      id="namedview99"
      inkscape:document-units="px"
@@ -123,7 +123,7 @@
        id="activetab-4"
        osb:paint="solid">
       <stop
-         style="stop-color:#98bcff;stop-opacity:1;"
+         style="stop-color:#306be0;stop-opacity:1;"
          offset="0"
          id="stop5758" />
     </linearGradient>
@@ -160,32 +160,13 @@
         color:#3daee9;
       }</style>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#hovernew"
-       id="linearGradient4844"
-       x1="2.2810249"
-       y1="71.530495"
-       x2="26.281038"
-       y2="71.530495"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-11.87824,-25.593626)" />
-    <linearGradient
        id="hovernew"
        osb:paint="solid">
       <stop
-         style="stop-color:#306be0;stop-opacity:0.3764706;"
+         style="stop-color:#7c7a74;stop-opacity:0.53333336;"
          offset="0"
          id="stop4834" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#hovernew"
-       id="linearGradient4854"
-       x1="-84.042511"
-       y1="-12.007126"
-       x2="-60.042515"
-       y2="-12.007126"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#activetab-4"
@@ -198,15 +179,6 @@
        y2="0.28102493" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#hovernew"
-       id="linearGradient4856"
-       x1="-64.702522"
-       y1="-10.218214"
-       x2="-60.702522"
-       y2="-10.218214"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#activetab-4"
        id="linearGradient862"
        gradientUnits="userSpaceOnUse"
@@ -215,65 +187,6 @@
        y1="0.28102493"
        x2="-59.530502"
        y2="0.28102493" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#hovernew"
-       id="linearGradient4850"
-       x1="2.2810371"
-       y1="85.530472"
-       x2="26.28105"
-       y2="85.530472"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-11.87824,-25.593626)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#hovernew"
-       id="linearGradient4858"
-       x1="2.2810256"
-       y1="57.530491"
-       x2="26.281038"
-       y2="57.530491"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-11.87824,-25.593626)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#hovernew"
-       id="linearGradient4846"
-       x1="26.281038"
-       y1="71.530495"
-       x2="30.281038"
-       y2="71.530495"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-11.87824,-25.593626)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#hovernew"
-       id="linearGradient4848"
-       x1="26.281038"
-       y1="85.530502"
-       x2="30.281038"
-       y2="85.530502"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-11.87824,-25.593626)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#hovernew"
-       id="linearGradient4860"
-       x1="26.281038"
-       y1="57.530491"
-       x2="30.281038"
-       y2="57.530491"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-11.87824,-25.593626)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#hovernew"
-       id="linearGradient5644"
-       gradientUnits="userSpaceOnUse"
-       x1="-64.702522"
-       y1="-10.218214"
-       x2="-60.702522"
-       y2="-10.218214" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#activetab-4"
@@ -299,7 +212,7 @@
   </metadata>
   <rect
      transform="rotate(-90)"
-     style="opacity:1;fill:url(#linearGradient4844);fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119"
+     style="opacity:1;fill-opacity:0.3137255;fill-rule:evenodd;stroke-width:2.00000119;fill:#d1d1d1"
      height="24.000013"
      width="24.000013"
      x="-9.5972147"
@@ -309,7 +222,7 @@
      transform="rotate(-90,-13.257793,12.847869)"
      id="active-tab-bottom">
     <rect
-       style="opacity:1;fill:url(#linearGradient4854);fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:0.3137255;fill-rule:evenodd;stroke-width:0.81649709"
        height="4"
        width="23.999998"
        x="-84.042511"
@@ -335,7 +248,7 @@
        x="-64.702522"
        width="4"
        height="4"
-       style="opacity:1;fill:url(#linearGradient5644);fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709" />
+       style="opacity:1;fill:#d1d1d1;fill-opacity:0.3137255;fill-rule:evenodd;stroke-width:0.81649709" />
     <rect
        style="fill:url(#linearGradient5646);fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709"
        height="2"
@@ -349,7 +262,7 @@
      id="active-tab-bottomright"
      transform="matrix(0,-1,-1,0,122.63937,1.3789886)">
     <rect
-       style="opacity:1;fill:url(#linearGradient4856);fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709"
+       style="opacity:1;fill:#d1d1d1;fill-opacity:0.3137255;fill-rule:evenodd;stroke-width:0.81649709"
        height="4"
        width="4"
        x="-64.702522"
@@ -372,10 +285,10 @@
      x="-9.5972023"
      width="24.000013"
      height="4"
-     style="opacity:1;fill:url(#linearGradient4850);fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
+     style="opacity:1;fill:#d1d1d1;fill-opacity:0.3137255;fill-rule:evenodd;stroke-width:2.00000119" />
   <rect
      transform="rotate(-90)"
-     style="opacity:1;fill:url(#linearGradient4858);fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119"
+     style="opacity:1;fill:#d1d1d1;fill-opacity:0.3137255;fill-rule:evenodd;stroke-width:2.00000119"
      height="4"
      width="24.000013"
      x="-9.5972137"
@@ -388,7 +301,7 @@
      x="14.402799"
      width="4"
      height="24.000013"
-     style="opacity:1;fill:url(#linearGradient4846);fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
+     style="opacity:1;fill:#d1d1d1;fill-opacity:0.3137255;fill-rule:evenodd;stroke-width:2.00000119" />
   <rect
      transform="rotate(-90)"
      id="active-tab-topright"
@@ -396,13 +309,18 @@
      x="14.402799"
      width="4"
      height="4"
-     style="opacity:1;fill:url(#linearGradient4848);fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
+     style="opacity:1;fill:#d1d1d1;fill-opacity:0.3137255;fill-rule:evenodd;stroke-width:2.00000119" />
   <rect
      transform="rotate(-90)"
-     style="opacity:1;fill:url(#linearGradient4860);fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119"
+     style="opacity:1;fill:#d1d1d1;fill-opacity:0.3137255;fill-rule:evenodd;stroke-width:2.00000119"
      height="4"
      width="4"
      x="14.402799"
      y="29.936865"
      id="active-tab-topleft" />
+  <path
+     d="m -7.4041839,-3.588454 h 12 v 12 h -12 z"
+     id="hover-center"
+     style="fill:#e5e5e5;fill-opacity:0.31372549"
+     inkscape:connector-curvature="0" />
 </svg>
