@@ -32,8 +32,8 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="11.173219"
-     inkscape:cx="29.177607"
-     inkscape:cy="48.88057"
+     inkscape:cx="14.526234"
+     inkscape:cy="39.775452"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="true"
      inkscape:window-x="273"
@@ -54,7 +54,7 @@
        id="hovernew"
        osb:paint="solid">
       <stop
-         style="stop-color:#306be0;stop-opacity:0.5411765;"
+         style="stop-color:#306be0;stop-opacity:0.42352942;"
          offset="0"
          id="stop4834" />
     </linearGradient>
@@ -78,7 +78,7 @@
        id="selectedbody"
        osb:paint="solid">
       <stop
-         style="stop-color:#98bcff;stop-opacity:0.67058825;"
+         style="stop-color:#98bcff;stop-opacity:0.50196081;"
          offset="0"
          id="stop875" />
     </linearGradient>
