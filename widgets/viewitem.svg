@@ -31,8 +31,8 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="11.173219"
-     inkscape:cx="54.950083"
-     inkscape:cy="41.226"
+     inkscape:cx="79.490926"
+     inkscape:cy="41.537722"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="true"
      inkscape:window-x="273"
@@ -140,13 +140,13 @@
      x="56.281025"
      width="24.000013"
      height="24.000013"
-     style="opacity:0.5;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
+     style="opacity:0.33;fill:#dbeff5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
   <g
      style="fill:#98bcff;fill-opacity:1;opacity:1"
      id="selected-top"
      transform="translate(54.219431,9.1429707)">
     <rect
-       style="opacity:1;fill:#dbeff5;fill-opacity:0.50196081;fill-rule:evenodd;stroke-width:0.40824857"
+       style="opacity:0.33;fill:#dbeff5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824857"
        height="3.9999413"
        width="24.000013"
        x="2.0616059"
@@ -170,7 +170,7 @@
        x="2.0616059"
        width="24.000013"
        height="3.9999413"
-       style="opacity:1;fill:#dbeff5;fill-opacity:0.50196081;fill-rule:evenodd;stroke-width:0.40824857" />
+       style="opacity:0.33;fill:#dbeff5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824857" />
     <rect
        style="opacity:1;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486"
        height="1"
@@ -189,7 +189,7 @@
        x="2.0616059"
        width="24.000013"
        height="3.9999413"
-       style="opacity:1;fill:#dbeff5;fill-opacity:0.50196081;fill-rule:evenodd;stroke-width:0.40824857" />
+       style="opacity:0.33;fill:#dbeff5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824857" />
     <rect
        style="opacity:1;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.4082486"
        height="1"
@@ -208,7 +208,7 @@
        x="49.375832"
        width="3.999939"
        height="4"
-       style="opacity:1;fill:#dbeff5;fill-opacity:0.50196081;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:0.33;fill:#dbeff5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
        transform="rotate(90)" />
     <path
        inkscape:connector-curvature="0"
@@ -222,7 +222,7 @@
      id="selected-bottomright">
     <rect
        transform="rotate(90)"
-       style="opacity:1;fill:#dbeff5;fill-opacity:0.50196081;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:0.33;fill:#dbeff5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
        height="4"
        width="3.999939"
        x="49.375832"
@@ -239,7 +239,7 @@
      transform="matrix(0,1,1,0,5.8935341,57.468859)"
      style="fill:#dbeff5;fill-opacity:0.50196081;opacity:1">
     <rect
-       style="opacity:1;fill:#dbeff5;fill-opacity:0.50196081;fill-rule:evenodd;stroke-width:0.40824857"
+       style="opacity:0.33;fill:#dbeff5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824857"
        height="3.9999413"
        width="24.000013"
        x="2.0616059"
@@ -259,7 +259,7 @@
      style="fill:#98bcff;fill-opacity:1;opacity:1">
     <rect
        transform="rotate(90)"
-       style="opacity:1;fill:#dbeff5;fill-opacity:0.50196081;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:0.33;fill:#dbeff5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
        height="4"
        width="3.999939"
        x="49.375832"
@@ -281,7 +281,7 @@
        x="49.375832"
        width="3.999939"
        height="4"
-       style="opacity:1;fill:#dbeff5;fill-opacity:0.50196081;fill-rule:evenodd;stroke-width:0.16666678"
+       style="opacity:0.33;fill:#dbeff5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666678"
        transform="rotate(90)" />
     <path
        inkscape:connector-curvature="0"
@@ -323,7 +323,7 @@
      x="2.2810249"
      width="24.000013"
      height="24.000013"
-     style="opacity:0.5;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
+     style="opacity:0.33;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
   <g
      id="hover-left"
      transform="translate(12.288163,-0.5120357)">
@@ -334,7 +334,7 @@
        x="-84.042511"
        width="23.999998"
        height="4"
-       style="opacity:0.5;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709" />
+       style="opacity:0.33;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709" />
     <rect
        style="fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709"
        height="2"
@@ -348,7 +348,7 @@
      id="hover-topleft"
      transform="translate(10.499251,-5.172047)">
     <rect
-       style="opacity:0.5;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709"
+       style="opacity:0.33;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709"
        height="4"
        width="4"
        x="-64.702522"
@@ -374,7 +374,7 @@
        x="-64.702522"
        width="4"
        height="4"
-       style="opacity:0.5;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709" />
+       style="opacity:0.33;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709" />
     <rect
        style="fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709"
        height="2"
@@ -385,7 +385,7 @@
        transform="rotate(-90)" />
   </g>
   <rect
-     style="opacity:0.5;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119"
+     style="opacity:0.33;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119"
      height="4"
      width="24.000013"
      x="2.2810371"
@@ -397,16 +397,16 @@
      x="2.2810256"
      width="24.000013"
      height="4"
-     style="opacity:0.5;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
+     style="opacity:0.33;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
   <rect
-     style="opacity:0.5;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119"
+     style="opacity:0.33;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119"
      height="24.000013"
      width="4"
      x="26.281038"
      y="59.530491"
      id="rect4832" />
   <rect
-     style="opacity:0.5;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119"
+     style="opacity:0.33;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119"
      height="4"
      width="4"
      x="26.281038"
@@ -418,5 +418,5 @@
      x="26.281038"
      width="4"
      height="4"
-     style="opacity:0.5;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
+     style="opacity:0.33;fill:#dbf0f5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
 </svg>
